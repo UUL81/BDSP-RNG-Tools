@@ -1,0 +1,26 @@
+{
+    "MonitorWindow": false,
+    "WindowPrefix": "",
+    "image": "./images/phone_turnback/eye.png",
+    "view": [
+        286,
+        231,
+        37,
+        36
+    ],
+    "thresh": 0.9,
+    "white_delay": 2.0,
+    "advance_delay": 2,
+    "advance_delay_2": 0,
+    "npc": 0,
+    "pokemon_npc": 1,
+    "timeline_npc": 0,
+    "crop": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "camera": 3,
+    "display_percent": 80
+}
