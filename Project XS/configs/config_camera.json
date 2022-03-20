@@ -1,0 +1,26 @@
+{
+    "MonitorWindow": 0,
+    "WindowPrefix": "",
+    "image": "./images/phone/eye.png",
+    "view": [
+        280,
+        375,
+        60,
+        60
+    ],
+    "thresh": 0.9,
+    "white_delay": 3.0,
+    "advance_delay": 3,
+    "advance_delay_2": 0,
+    "npc": 0,
+    "pokemon_npc": 0,
+    "timeline_npc": 0,
+    "crop": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "camera": 0,
+    "display_percent": 80
+}
